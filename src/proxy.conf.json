@@ -1,0 +1,8 @@
+{
+    "/api/*":{
+        "target":"https://arprogm9.herokuapp.com/",
+        "secure":true,
+        "logLevel":"debug"
+     
+    }
+}
